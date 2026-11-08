@@ -58,7 +58,7 @@ This is general information, not accounting, tax or legal advice. Benchmarks are
 
 Send the redacted document (Document 2) and your questions to me.
 
-- Website: [openclose.sh]([https://openclose.sh](https://openclose.sh))
+- Website: [openclose.sh](https://openclose.sh)
 - Email: [shannonruxin@gmail.com](mailto:shannonruxin@gmail.com) (personal); [hi@openclose.sh](mailto:hi@openclose.sh) (work)
 - Blog: [Shannon Accounting](https://shannonaccounting.substack.com)
 - The post this is built on: [The Numbers Investors Expect You to Know](https://shannonaccounting.substack.com/p/numbers-investors-expect-you-to-know)
