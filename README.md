@@ -16,7 +16,7 @@ Connect your accounting software (Xero, QuickBooks or similar), ask Claude to ru
 **Document 2: a redacted version you can share.**
 
 - The same scorecards with names and amounts removed (ratios and months only by default).
-- A short list of questions you can send to me. 
+- A short list of questions you can send to me.
 
 
 
@@ -58,7 +58,8 @@ This is general information, not accounting, tax or legal advice. Benchmarks are
 
 Send the redacted document (Document 2) and your questions to me.
 
-- Email: [shannonruxin@gmail.com](mailto:shannonruxin@gmail.com)
+- Website: [openclose.sh]([https://openclose.sh](https://openclose.sh))
+- Email: [shannonruxin@gmail.com](mailto:shannonruxin@gmail.com) (personal); [hi@openclose.sh](mailto:hi@openclose.sh) (work)
 - Blog: [Shannon Accounting](https://shannonaccounting.substack.com)
 - The post this is built on: [The Numbers Investors Expect You to Know](https://shannonaccounting.substack.com/p/numbers-investors-expect-you-to-know)
 
